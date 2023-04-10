@@ -18,7 +18,7 @@ Portfolio - Website é um projeto exclusivo desenvolvido a partir das principais
 <br>
 
 <p align="center">
-  <img alt="Portfolio Project" src="/Portfolio-Website/Portfólio_Website/portfolio_website.png" width="100%">
+  <img alt="Portfolio Project" src="./Portfolio-Website/Portfólio_Website/portfolio_website.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
