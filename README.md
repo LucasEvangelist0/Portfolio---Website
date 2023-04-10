@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Portfolio - Website é um app para expor seus principais trabalhos.
 
 - [Visite o projeto online](https://github.com/LucasEvangelist0/Portfolio-Website)
 
